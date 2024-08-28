@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Data Analyst Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #6a1b9a;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        section h2 {
+            color: #6a1b9a;
+        }
+        .skills, .experience, .projects, .education {
+            margin-bottom: 20px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            background-color: #e1bee7;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .contact {
+            text-align: center;
+        }
+        .contact a {
+            color: #6a1b9a;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 0 10px;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Data Analyst Portfolio</h1>
+    </header>
+
+    <section class="introduction">
+        <h2>Introduction</h2>
+        <p>I am a passionate data analyst with a strong background in MS Excel, SQL, and Python. My journey into data analytics has been driven by a desire to uncover insights and make data-driven decisions. I am eager to contribute my skills and knowledge to a dynamic team where I can continue to grow and make an impact.</p>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>MS Excel</li>
+            <li>SQL (Completed)</li>
+            <li>Python</li>
+            <li>Data Visualization</li>
+            <li>Data Cleaning</li>
+            <li>Effective Presentation</li>
+            <li>Client Communication</li>
+            <li>Problem-Solving</li>
+        </ul>
+    </section>
+
+    <section class="experience">
+        <h2>Professional Experience</h2>
+        <div>
+            <h3>Accenture Data Analytics and Visualization Virtual Internship</h3>
+            <p>During this internship, I gained hands-on experience in:</p>
+            <ul>
+                <li>Project understanding and efficient data handling</li>
+                <li>Data cleaning and data modeling</li>
+                <li>Visualizing and storytelling with data to effectively communicate insights</li>
+            </ul>
+        </div>
+        <div>
+            <h3>Customer Service Representative at TCS</h3>
+            <p>While my role was primarily focused on customer service, I leveraged my analytical skills to enhance process efficiency and customer satisfaction.</p>
+        </div>
+    </section>
+
+    <section class="projects">
+        <h2>Projects</h2>
+        <div>
+            <h3>Accenture Virtual Internship Projects</h3>
+            <p>These projects allowed me to apply my knowledge of data analytics to real-world scenarios, focusing on:</p>
+            <ul>
+                <li>Data extraction and preparation</li>
+                <li>Using SQL and Python for data analysis</li>
+                <li>Creating visual reports to present to clients</li>
+            </ul>
+        </div>
+        <!-- You can add more projects here -->
+    </section>
+
+    <section class="education">
+        <h2>Education & Certifications</h2>
+        <ul>
+            <li>MBA at IGNOU University</li>
+            <li>English Honours</li>
+            <li>A to Z Finance Course - Great Learning</li>
+            <li>SQL, Python - Udemy</li>
+        </ul>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Information</h2>
+        <p>Feel free to reach out to me via LinkedIn or email:</p>
+        <p>
+            <a href="www.linkedin.com/in/priyakumaridataanalyst" target="_blank">LinkedIn</a> |
+            <a href="meetpriya597@gmail.com">your.email@example.com</a>
+        </p>
+    </section>
+</body>
+</html>
